@@ -1,0 +1,35 @@
+commit a7d8911557d99838a9a7ccc8b71d53279c8fafc5
+Author: Eduardo Millan <eduardo_32sharinga@hotmail.com>
+Date:   Thu Apr 7 08:44:35 2016 -0600
+
+    Footer
+
+commit 2c834a5cd1eebda02aab77a9739de83553d6e7c0
+Author: Eduardo Millan <eduardo_32sharinga@hotmail.com>
+Date:   Thu Apr 7 08:35:19 2016 -0600
+
+    curpo de la pagina, logo y parrafo
+
+commit f54c2a833dc88d2b89e90cc834b4bd528d51acc6
+Author: Eduardo Millan <eduardo_32sharinga@hotmail.com>
+Date:   Thu Apr 7 08:28:10 2016 -0600
+
+    Estructura con Bootstrap
+
+commit 1db61ca9c0bd20ea03b496a34a0f3d3a711e241f
+Author: Eduardo Millan <eduardo_32sharinga@hotmail.com>
+Date:   Thu Apr 7 08:24:34 2016 -0600
+
+    Agregue botstrap
+
+commit 478d32f3da9695ca0294d2fcfb9e70a0c2513b71
+Author: Eduardo Millan <eduardo_32sharinga@hotmail.com>
+Date:   Thu Apr 7 08:21:50 2016 -0600
+
+    titulo de la pagina
+
+commit 5f6a7c7dad008f1a8c01c143b48d287bfcf20bf6
+Author: Eduardo Millan <eduardo_32sharinga@hotmail.com>
+Date:   Thu Apr 7 08:17:55 2016 -0600
+
+    Pagina en blanco
